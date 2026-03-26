@@ -20,7 +20,11 @@ outputs/metrics/
 .DS_Store
 Thumbs.db
 
-datasets/
-train/
-test/
-valid/
+# Weights
+*.pt
+*.pth
+
+# Dataset folders
+datasets/train/
+datasets/valid/
+datasets/test/
