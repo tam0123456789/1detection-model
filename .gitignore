@@ -19,12 +19,9 @@ outputs/metrics/
 
 .DS_Store
 Thumbs.db
-
-# Weights
 *.pt
 *.pth
 
-# Dataset folders
 datasets/train/
 datasets/valid/
 datasets/test/
